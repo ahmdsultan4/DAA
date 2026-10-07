@@ -1,0 +1,24 @@
+*Sorting:*
+• Quick Sort
+• Merge Sort
+• Heap Sort
+• Insertion Sort
+
+*Trees:*
+• Binary Tree
+• Binary Search Tree (BST)
+• In-order Traversal
+• Pre-order Traversal
+• Post-order Traversal
+
+*Graphs:*
+Graph Traversal:
+• BFS (Breadth-First Search)
+• DFS (Depth-First Search)
+Minimum Spanning Tree:
+• Prim's Algorithm
+• Kruskal's Algorithm
+Shortest Path:
+• Dijkstra's Algorithm
+• Bellman-Ford Algorithm
+• Floyd-Warshall Algorithm
